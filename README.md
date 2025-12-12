@@ -7,10 +7,10 @@ This project demonstrates a complete data analytics workflow—from data cleanin
 ---
 
 ## 🚀 Tech Stack  
-- **Python** (Pandas, NumPy, Matplotlib)  
+- **Python** (Pandas)
 - **SQL**  
 - **Power BI**  
-- **PostgreSQL / MySQL**  
+- **PostgreSQL**  
 
 ---
 
