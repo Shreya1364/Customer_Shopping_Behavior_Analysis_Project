@@ -42,4 +42,3 @@ This project demonstrates a complete data analytics workflow—from data cleanin
 
 ---
 
-## 📁 Folder Structure  
