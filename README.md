@@ -35,6 +35,10 @@ This project demonstrates a complete data analytics workflow—from data cleanin
 
 ---
 
+📷 **Dashboard Preview**
+![Dashboard Screenshot](Customer_shopping_behavior/dashboard.jpg)
+
+
 ## 📈 Key Insights  
 - Identified top-performing product categories.  
 - Uncovered customer purchasing patterns.  
